@@ -45,11 +45,15 @@ www.coinspot.com.au
 
 * ### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-     Trading volumes, number of users and global coverage, audience trust.
+     Trading volumes, number of users, global coverage, audience trust.
      Coinspot during the years had a constant and exponential growth of user and volumes .
      The exchange says the number of Australian crypto traders on his platform has doubled in the space of six months, (from January 2021 to June 2021) increasing by one million users.
-     Coinspot current daily volume is 26,698,967.21 AUD (18/12/2021)
+
+     Coinspot current daily volume is 26,698,967.21 AUD (18/12/2021, 20.22 GMT+11)
+     
+     Trading volume increased by 221% from 2020 and 374% from 2019.
 * ### How is your company performing relative to competitors in the same domain?
+     
 
 ## Recommendations
 
