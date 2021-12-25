@@ -29,6 +29,16 @@ www.coinspot.com.au
     Coinspot operates with Australian residents only.
     This company targets different variaties of investors;
     Big investors and institutionals can take advantage of OTC service and small investors are able to deposit any amount they desire via bank transfer, POLI, PAYID, Cash deposit.
+    The market size of their customers is not set because every business can be related to a crypto in the near future.
+    We can compare different market size of markets that the same customers may share :
+    Gold 7.7 T
+    Global Stock Market 73 T
+    Real Estate 217
+    Derivates 512 T - 1.2 Q
+
+    Total cryptocurrencies market capitalization is 2.6 T
+
+
     
 
 * ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -52,7 +62,11 @@ www.coinspot.com.au
 ---
 * ### What domain of the financial industry is the company in?
      Blockchain, Cryptocurrencies, Investments
+
+
 * ### What have been the major trends and innovations of this domain over the last 5-10 years?
+
+
      At the early stages of crypto trading were no exchanges, the first trade with fiat happened in 2009 on a portal called Bitcoin market  through Paypal, soon later Paypal stopped offering support via Bitcoin market due to the numerous frauds.
      The first real exchange Mt.Gox is launched in 2011 supporting trades between fiat and bitcoin.
      Though the years many innovations came out from this domain, support of different stablecoins and altcoins(some exchanges support over 1000 different pairs), Staking rewards, exchanges like binance built an entire ecosystem around BNB(Binance native coin), advanced trading features like stop loss and stop limit, Futures, Launchpad(IDO crowdfunding), Credit cards linked to the exchange to spend crypto, Airdrops, Dex (Decentralized exchanges).
@@ -66,7 +80,8 @@ www.coinspot.com.au
 ---
 * ### What has been the business impact of this company so far?
 
-     Cryptocurreny exchanges had a strong impact on the society transforming a niche technology on a mainstream trend.
+     Cryptocurreny exchanges had a strong impact on the society transforming a niche technology on a mainstream thing.
+     Coinspot followed the positive trend of other companies in this domain, increasing constantly and exponentially his number of users and trading volumes.
 
 * ### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -74,12 +89,19 @@ www.coinspot.com.au
      Coinspot during the years had a constant and exponential growth of user and volumes .
      The exchange says the number of Australian crypto traders on his platform has doubled in the space of six months, (from January 2021 to June 2021) increasing by one million users.
 
-     Coinspot current daily volume is 26,698,967.21 AUD (18/12/2021, 20.22 GMT+11)
+     Coinspot current daily volume is 97,698,967.21 AUD (18/12/2021, 20.22 GMT+11)
      
      Trading volume increased by 221% from 2020 and 374% from 2019.
 
 * ### How is your company performing relative to competitors in the same domain?
+     Coinspot is performing better compared to other local competitors like Indipendent Reserve,Coinjar and Cointree, they all have lower number of users and volumes.
      
+     |                     | Users     | Daily Volumes  |
+     |---------------------|-----------|----------------|
+     | Indipendent Reserve | 200.000   | 12,044,566,77  |
+     | Coinjar             | 500.000   | 25,634,533.32  |
+     | Cointree            | 80.000    | 4,546,800.21   |
+     | Coinspot            | 2.000.000 | 97,698,967.21  
 
 ## Recommendations
 ---
