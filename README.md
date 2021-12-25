@@ -94,22 +94,33 @@ www.coinspot.com.au
      Trading volume increased by 221% from 2020 and 374% from 2019.
 
 * ### How is your company performing relative to competitors in the same domain?
-     Coinspot is performing better compared to other local competitors like Indipendent Reserve,Coinjar and Cointree, they all have lower number of users and volumes.
+     Coinspot is performing better compared to other local competitors like Indipendent Reserve, Coinjar and Cointree, they all have lower number of users and volumes.
+     At international level is left behind from many companies that operate in multiple countries and offer more services like futures and nfts.
      
-     |                     | Users     | Daily Volumes  |
+     |                     | Users     | Daily Volumes USD |
      |---------------------|-----------|----------------|
      | Indipendent Reserve | 200.000   | 12,044,566,77  |
      | Coinjar             | 500.000   | 25,634,533.32  |
-     | Cointree            | 80.000    | 4,546,800.21   |
-     | Coinspot            | 2.000.000 | 97,698,967.21  
+     | Cointree            | 80.000    | 2,546,800.21   |
+     | Coinspot            | 2.000.000 | 46,698,967.21  |
+     | Binance             | 28.600.400| 72,682,984,403.03|
 
 ## Recommendations
 ---
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+I would strongly advise to start to accept credit cards as payment method to purchase crypto and build a paralell dex exchange.
+
+
 * Why do you think that offering this product or service would benefit the company?
+Credit card purchases because is avaiable on most of exchanges and favourite method used by vast majority of investors.
+This implementation could potentially attract more investors or increase the frequency of their investment.
+Dex exchanges are the future of exchanges and is only matter of time before the vast majority of investors will move their funds were are 100% safe.
 
 * What technologies would this additional product or service utilize?
+Dex shows the full potential of blockchain technology.
+Dex are autonomous financial protocols powered by smart contracts that enable crypto traders to convert one digital asset for another with all transactions viewable on the blockchain
+
 
 * Why are these technologies appropriate for your solution?
 
