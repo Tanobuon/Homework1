@@ -44,7 +44,7 @@ www.coinspot.com.au
 * ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
     Coinspot takes advantage of beign Australia-based and offer 0 fees deposit and withdrawl using AUD.
-    Another point of straight is the audience trust,
+    Another point of strength is the audience trust,
     the exchange has never been hacked since 2013.
     CoinSpot is the safest crypto exchange in Australia, as the only one to be awarded the ISO 27001 certification. It was also one of the first exchanges to be registered with AUSTRAC. On top of this, CoinSpot maintains industry best-practice by securing a vast majority of assets in highly secure offline locations. 
 
@@ -89,7 +89,7 @@ www.coinspot.com.au
      Coinspot during the years had a constant and exponential growth of user and volumes .
      The exchange says the number of Australian crypto traders on his platform has doubled in the space of six months, (from January 2021 to June 2021) increasing by one million users.
 
-     Coinspot current daily volume is 97,698,967.21 AUD (18/12/2021, 20.22 GMT+11)
+     Coinspot current daily volume is 46,698,967.21 AUD (18/12/2021, 20.22 GMT+11)
      
      Trading volume increased by 221% from 2020 and 374% from 2019.
 
