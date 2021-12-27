@@ -115,7 +115,7 @@ I would strongly advise to start to accept credit cards as payment method to pur
 * Why do you think that offering this product or service would benefit the company?
 Credit card purchases because is avaiable on most of exchanges and favourite method used by vast majority of investors.
 This implementation could potentially attract more investors or increase the frequency of their investment.
-Dex exchanges are the future of exchanges and is only matter of time before the vast majority of investors will move their funds were are 100% safe.
+Dex exchanges are the future of exchanges and is only matter of time before the vast majority of investors will move their funds where are 100% safe.
 
 * What technologies would this additional product or service utilize?
 Dex shows the full potential of blockchain technology.
@@ -124,3 +124,4 @@ Dex are autonomous financial protocols powered by smart contracts that enable cr
 
 * Why are these technologies appropriate for your solution?
 
+We are going ahead to a "Trustless future" where decentralization will be an essential need from any kind of investor, expecially if you are trading cryptocurrencies this seems the only way to go.
